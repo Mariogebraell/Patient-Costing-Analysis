@@ -15,10 +15,6 @@
 ##### Behaviour
 ##### Delivery Medium : Interaction at the healthcare facility via the desktop
 
-#### With this in mind the analyst and user have established the questions that need to be answered on this dashboard: 
-
-#### Dashboard: Patient Costing Analysis
-
 #### The broad metrics that the user requires are:
 
 * Patient count
