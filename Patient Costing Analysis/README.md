@@ -1,6 +1,6 @@
 ### Patient Costing Analysis
 
-#### Points of Interest based on discussions with the user(s) …
+#### Points of Interest based on discussions with the user are:
 
 * Patient counts
 * Revenue received
