@@ -34,7 +34,8 @@
 * GEO Analytics patient origins showing Counts, Revenue, Cost, LOS, 
 profitability, average age using Maps
 
-#### Other considerations for dashboard interaction are the use of appropriate dimensions...
+#### Other considerations for dashboard interaction are the use of appropriate dimensions:
+
 * Admission Date drill down capability e.g. Year >>> Month >> Date
 * Age Group Drill Down e.g. Age Group >>> Age
 * Filter selections by Admission year, Specialty, Gender
